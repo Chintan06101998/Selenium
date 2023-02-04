@@ -26,9 +26,9 @@
 
 # Prerequistic
 
-Install Selenium IDE extension in browser
+Install Selenium IDE extension in browser,
 Install WebDrivers
 
 # Example Output
 
-![Test Image 5](https://…/3DTest.png)
+![Test Image](https://github.com/theChintanPatel/SeleniumDemo/blob/main/Selenium%20Test%20Cases/Screenshot%202023-02-04%20at%2011.00.34%20AM.png)
